@@ -1,16 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 17, 2017 (Finally!!!)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned to _fork_. ![GitHub Logo](https://www.google.com.au/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwiA6rfx55TSAhUGmJQKHVLdDFkQjRwIBw&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AFQjCNGlRMKYndTFPkhn_Fc-K0iKEb5ngw&ust=1487341200759917)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Have done most of the Front End Certificate, and getting ready for the next step. Loving **freeCodeCamp**.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to fork:** [Scott Spence's Twitter Bot](https://github.com/dpcorbett/twitter-bot-bootstrap)
+**Link to fork:** [Where's the fork?](https://github.com/dpcorbett/Spoon-Knife)
+**Link to fork:** [It has begun](https://github.com/dpcorbett/100-days-of-code)
 
 ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+##### (delete me or comment me out)... yeah I'm leavin' it. :)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
