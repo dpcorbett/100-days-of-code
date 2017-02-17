@@ -14,7 +14,7 @@
 
 **Today's Progress**: Rebuilt bot, worked on getting it to run on Heroku.
 
-**Link(s) to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap)**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap)
 
 
 ### Day 1: June 27, Monday
