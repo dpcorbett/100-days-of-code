@@ -10,14 +10,11 @@
 **Link to fork:** [Where's the fork?](https://github.com/dpcorbett/Spoon-Knife)
 **Link to fork:** [It has begun](https://github.com/dpcorbett/100-days-of-code)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)... yeah I'm leavin' it. :)
+### Day 2: February 18, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Rebuilt bot, worked on getting it to run on Heroku.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap)**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
