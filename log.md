@@ -2,7 +2,7 @@
 
 ### Day 1: February 17, 2017 (Finally!!!)
 
-**Today's Progress**: Learned to _fork_. ![GitHub Logo](http://www.freeiconspng.com/uploads/github-logo-icon-0.png)
+**Today's Progress**: Learned to _fork_. ![GitHub Logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q)
 
 **Thoughts:** Have done most of the Front End Certificate, and getting ready for the next step. Loving **freeCodeCamp**.
 
