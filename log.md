@@ -16,13 +16,11 @@
 
 **Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap)
 
+### Day 3: February 19, 2017
 
-### Day 1: June 27, Monday
+**Today's Progress**: Building Friendly Date Ranges on FreeCodeCamp.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** I've not finished it, and will be spending more time on it. It has been an hour though, and there are less 20 minutes of the day to record it. :)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**
+1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
