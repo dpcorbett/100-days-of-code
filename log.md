@@ -24,3 +24,12 @@
 
 **Link to work**
 1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+
+### Day 4: February 20, 2017
+
+**Today's Progress**: Finished Friendly Date Ranges on FreeCodeCamp.
+
+**Thoughts** I made a bad call to createOrdinal(cardinal) and got returned undefinedth. :)
+
+**Link to work**
+1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
