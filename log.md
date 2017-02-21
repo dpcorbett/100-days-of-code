@@ -33,3 +33,12 @@
 
 **Link to work**
 1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+
+### Day 5: February 21, 2017
+
+**Today's Progress**: Completed Map the Debris on FreeCodeCamp.
+
+**Thoughts** Celestial mechanics, wow guys always fun new stuff. :)
+
+**Link to work**
+1. [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
