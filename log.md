@@ -36,9 +36,19 @@
 
 ### Day 5: February 21, 2017
 
-**Today's Progress**: Completed Map the Debris on FreeCodeCamp.
+**Today's Progress**: Completed Make a Person, and Map the Debris on FreeCodeCamp.
 
 **Thoughts** Celestial mechanics, wow guys always fun new stuff. :)
 
 **Link to work**
-1. [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
+1. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
+2. [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
+
+### Day 6: February 22, 2017
+
+**Today's Progress**: Completed Pairwise on FreeCodeCamp.
+
+**Thoughts** Finished all the algorithms. So excited and sad at the same time :D
+
+**Link to work**
+1. [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
