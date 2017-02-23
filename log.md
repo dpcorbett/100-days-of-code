@@ -52,3 +52,12 @@
 
 **Link to work**
 1. [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
+
+### Day 7: February 23, 2017
+
+**Today's Progress**: Worked on Build a JavaScript Calculator on FreeCodeCamp.
+
+**Thoughts** Decided to try flex instead of bootstrap.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
