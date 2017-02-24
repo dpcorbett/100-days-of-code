@@ -61,3 +61,12 @@
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+### Day 8: February 24, 2017
+
+**Today's Progress**: More work on Build a JavaScript Calculator on FreeCodeCamp.
+
+**Thoughts** Almost got a button layout I'm happy with.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
