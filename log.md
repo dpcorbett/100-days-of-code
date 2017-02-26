@@ -79,3 +79,12 @@
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+### Day 10: February 26, 2017
+
+**Today's Progress**: Implemented initial colour scheme for Build a JavaScript Calculator on FreeCodeCamp.
+
+**Thoughts** Thought I better get an initial colour scheme to make the gui intuitive to use, and therefore develop.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
