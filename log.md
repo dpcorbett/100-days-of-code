@@ -88,3 +88,12 @@
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+### Day 11: February 27, 2017
+
+**Today's Progress**: Worked on personal website, and worked on git commands..
+
+**Thoughts** Away with work, so just glad I could do something.
+
+**Link to work**
+1. [Personal Website](http://beam.to/mickpewter)
