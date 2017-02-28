@@ -97,3 +97,12 @@
 
 **Link to work**
 1. [Personal Website](http://beam.to/mickpewter)
+
+### Day 12: February 28, 2017
+
+**Today's Progress**: Implemented functions to process both interface button clicks, and keypresses for Build a JavaScript Calculator on FreeCodeCamp.
+
+**Thoughts** Feeding both inputs through single function. Need to find away to successfully bind display to stored data.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
