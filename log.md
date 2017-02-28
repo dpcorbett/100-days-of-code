@@ -14,7 +14,7 @@
 
 **Today's Progress**: Rebuilt bot, worked on getting it to run on Heroku.
 
-**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap) freeCodeCamp logo: ![Alt][1]
+**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap) ![Alt][1]
 
 ### Day 3: February 19, 2017
 
