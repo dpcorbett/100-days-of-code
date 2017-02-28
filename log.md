@@ -23,7 +23,7 @@
 **Thoughts** I've not finished it, and will be spending more time on it. It has been an hour though, and there are less 20 minutes of the day to record it. :)
 
 **Link to work**
-1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges) ![Alt][1]
 
 ### Day 4: February 20, 2017
 
@@ -32,7 +32,7 @@
 **Thoughts** I made a bad call to createOrdinal(cardinal) and got returned undefinedth. :)
 
 **Link to work**
-1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+1. [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges) ![Alt][1]
 
 ### Day 5: February 21, 2017
 
@@ -41,7 +41,7 @@
 **Thoughts** Celestial mechanics, wow guys always fun new stuff. :)
 
 **Link to work**
-1. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
+1. [Make a Person](https://www.freecodecamp.com/challenges/make-a-person) ![Alt][1]
 2. [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
 
 ### Day 6: February 22, 2017
@@ -51,7 +51,7 @@
 **Thoughts** Finished all the algorithms. So excited and sad at the same time :D
 
 **Link to work**
-1. [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
+1. [Pairwise](https://www.freecodecamp.com/challenges/pairwise) ![Alt][1]
 
 ### Day 7: February 23, 2017
 
@@ -60,7 +60,7 @@
 **Thoughts** Decided to try flex instead of bootstrap.
 
 **Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
 ### Day 8: February 24, 2017
 
@@ -69,7 +69,7 @@
 **Thoughts** Almost got a button layout I'm happy with.
 
 **Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
 ### Day 9: February 25, 2017
 
@@ -78,7 +78,7 @@
 **Thoughts** Will need some more work, but can start on functionality now.
 
 **Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
 ### Day 10: February 26, 2017
 
@@ -87,7 +87,7 @@
 **Thoughts** Thought I better get an initial colour scheme to make the gui intuitive to use, and therefore develop.
 
 **Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
 ### Day 11: February 27, 2017
 
@@ -105,7 +105,7 @@
 **Thoughts** Feeding both inputs through single function. Need to find away to successfully bind display to stored data.
 
 **Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
