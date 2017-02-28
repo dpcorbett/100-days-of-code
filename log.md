@@ -14,7 +14,7 @@
 
 **Today's Progress**: Rebuilt bot, worked on getting it to run on Heroku.
 
-**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap)
+**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap) freeCodeCamp logo: ![Alt][1]
 
 ### Day 3: February 19, 2017
 
@@ -106,3 +106,6 @@
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
+
+
+[1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
