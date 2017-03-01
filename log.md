@@ -109,7 +109,7 @@
 
 ### Day 13: March 1, 2017
 
-**Today's Progress**: Began builing functionality for display equation and result for Build a JavaScript Calculator on FreeCodeCamp.
+**Today's Progress**: Began building functionality for displaying equation and result for Build a JavaScript Calculator on FreeCodeCamp.
 
 **Thoughts** Having to interpret keyboard and mathematical symbols is proving to be fun. Hope I am using the right approach.
 
