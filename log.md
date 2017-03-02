@@ -116,4 +116,13 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
+### Day 14: March 2, 2017
+
+**Today's Progress**: Created aws account and registered domain name. Published tutorial site in jekyll to test.
+
+**Thoughts** Mostly setting up and changing settings, but feeling ultra nerdy. :)
+
+**Link to work**
+1. [First Home](http://universaldigitalenterprise.com)
+
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
