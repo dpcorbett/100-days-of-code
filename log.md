@@ -125,4 +125,14 @@
 **Link to work**
 1. [First Home](http://universaldigitalenterprise.com)
 
+### Day 15: March 3, 2017
+
+**Today's Progress**: Created Jekyll website after setting up Ruby on local server. Modified, then built and published to GitHub.
+
+**Thoughts** Now I have Ruby on Rails intriguing me. Always a broad spectrum. :)
+
+**Link to work**
+1. [First Home](http://universaldigitalenterprise.com)
+
+
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
