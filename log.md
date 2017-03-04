@@ -134,5 +134,14 @@
 **Link to work**
 1. [First Home](http://universaldigitalenterprise.com)
 
+### Day 16: March 4, 2017
+
+**Today's Progress**: Forked new Jekyll website and modified. Then published to GitHub, and updated Route53 data on AWS.
+
+**Thoughts** Forked from [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now).
+
+**Link to work**
+1. [First Home](http://universaldigitalenterprise.com)
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
