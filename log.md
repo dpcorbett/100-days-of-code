@@ -143,5 +143,15 @@
 **Link to work**
 1. [First Home](http://universaldigitalenterprise.com)
 
+### Day 17: March 5, 2017
+
+**Today's Progress**: Modified forked Jekyll site to be portfolio on Github. Created default Jekyll site and modified for ude.
+
+**Thoughts** Finally happy with setup, but now have 3 websites instead of 2.
+
+**Link to work**
+1. [Portfolio](https://dpcorbett.github.io)
+1. [First Home](http://universaldigitalenterprise.com)
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
