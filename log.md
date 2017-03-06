@@ -154,5 +154,14 @@
 2. [First Home](http://universaldigitalenterprise.com)
 3. [Personal Website](http://beam.to/mickpewter)
 
+### Day 18: March 6, 2017
+
+**Today's Progress**:  Extended functionality for input. Added filtering for numbers via regex, and restricted input to only contain one period.
+
+**Thoughts** Back to Build a JavaScript Calculator on FreeCodeCamp. Did some more Ruby as well.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
