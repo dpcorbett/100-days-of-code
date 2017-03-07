@@ -156,9 +156,18 @@
 
 ### Day 18: March 6, 2017
 
-**Today's Progress**:  Extended functionality for input. Added filtering for numbers via regex, and restricted input to only contain one period.
+**Today's Progress**: Extended functionality for input. Added filtering for numbers via regex, and restricted input to only contain one period.
 
 **Thoughts** Back to Build a JavaScript Calculator on FreeCodeCamp. Did some more Ruby as well.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
+### Day 19: March 7, 2017
+
+**Today's Progress**: Start building functionality for equating result from string. Use replace and split to get an array of operans, and operators.
+
+**Thoughts** Should be close to simple implementation of Build a JavaScript Calculator on FreeCodeCamp.
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
