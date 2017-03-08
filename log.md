@@ -172,5 +172,14 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
+### Day 20: March 8, 2017
+
+**Today's Progress**: Fulfilled user stories for Build a Javascript Calculator on freeCodeCamp.
+
+**Thoughts** Now for the fun, the tricky stuff. :)
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
