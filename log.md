@@ -181,5 +181,14 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
+### Day 21: March 9, 2017
+
+**Today's Progress**: Added function to remove operator from the end of the equation, for Build a Javascript Calculator on freeCodeCamp.
+
+**Thoughts** Still not convinced global variables are the best solution, will have to investigate.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
