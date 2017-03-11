@@ -190,5 +190,14 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
+### Day 22: March 11, 2017
+
+**Today's Progress**: Modified function and added remove operator from start of the equation. Added pecentage and exponent tor Build a Javascript Calculator on freeCodeCamp.
+
+**Thoughts** Had to miss 10th due to work, and couldn't stop on the 11th. Did 1.5hrs either side of midnight, so technically 2 days. :-D
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
