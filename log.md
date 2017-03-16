@@ -230,7 +230,16 @@
 
 **Today's Progress**: Implementation of memory value increase for Build a Javascript Calculator on freeCodeCamp.
 
-**Thoughts** Get mem to work..
+**Thoughts** Get mem to work.
+
+**Link to work**
+1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
+
+### Day 27: March 16, 2017
+
+**Today's Progress**: Finalising functionality for Build a Javascript Calculator on freeCodeCamp.
+
+**Thoughts** Somehow lost hours of work due to pen going back to old state without knowing how/when. Still made progress, nothing like doing things twice.
 
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
