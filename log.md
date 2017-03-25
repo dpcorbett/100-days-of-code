@@ -319,5 +319,14 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
+### Day 36: March 25, 2017
+
+**Today's Progress**: Started Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Started thinking about how to about it and tested setInterval(). :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
