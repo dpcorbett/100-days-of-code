@@ -328,5 +328,11 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 37: March 26, 2017
+
+**Today's Progress**: Brushed up on SQL, PHP, and Java in readiness for job assessment.
+
+**Thoughts** I hope I get to contribute professionally. :-)
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
