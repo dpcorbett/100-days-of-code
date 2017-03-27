@@ -334,5 +334,14 @@
 
 **Thoughts** I hope I get to contribute professionally. :-)
 
+### Day 38: March 27, 2017
+
+**Today's Progress**: Got basic timer class working for Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Going to try using a timer class for session and break. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
