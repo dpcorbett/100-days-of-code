@@ -343,5 +343,14 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 39: March 28, 2017
+
+**Today's Progress**: Began to design UI Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Spent most of the time learning how to create and use SVG. Want to use it for the pomodoro. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
