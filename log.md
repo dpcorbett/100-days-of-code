@@ -379,5 +379,11 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 43: April 1, 2017
+
+**Today's Progress**: Messed around with some PHP for something different.
+
+**Thoughts** Needed a break, but had to do some coding. :-)
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
