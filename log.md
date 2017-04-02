@@ -385,5 +385,14 @@
 
 **Thoughts** Needed a break, but had to do some coding. :-)
 
+### Day 44: March 2, 2017
+
+**Today's Progress**: Got timer to roll over for Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Now to tidy and refine functionality. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
