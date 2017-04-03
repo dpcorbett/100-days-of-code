@@ -394,5 +394,14 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 45: March 3, 2017
+
+**Today's Progress**: Added click events and logic to adjust break and session times in Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Just need to be able to reset to make spec. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
