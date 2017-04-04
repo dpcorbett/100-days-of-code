@@ -280,9 +280,6 @@
 **Link to work**
 1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
 
-**Link to work**
-1. [Build a JavaScript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) ![Alt][1]
-
 ### Day 32: March 21, 2017
 
 **Today's Progress**: Spent hours choosing fonts and adding box shadow for Build a Javascript Calculator on freeCodeCamp.
@@ -385,7 +382,7 @@
 
 **Thoughts** Needed a break, but had to do some coding. :-)
 
-### Day 44: March 2, 2017
+### Day 44: April 2, 2017
 
 **Today's Progress**: Got timer to roll over for Build a Pomodoro Clock on freeCodeCamp.
 
@@ -394,11 +391,20 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
-### Day 45: March 3, 2017
+### Day 45: April 3, 2017
 
 **Today's Progress**: Added click events and logic to adjust break and session times in Build a Pomodoro Clock on freeCodeCamp.
 
 **Thoughts** Just need to be able to reset to make spec. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
+### Day 46: April 4, 2017
+
+**Today's Progress**: Modified UI for Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Started to update UI a bit. :-)
 
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
