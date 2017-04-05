@@ -409,5 +409,14 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 47: April 5, 2017
+
+**Today's Progress**: Started adding C data structure libraries..
+
+**Thoughts** Something different again. :-)
+
+**Link to work**
+1. [C Simple List]https://github.com/dpcorbett/simple-list
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
