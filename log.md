@@ -2,7 +2,7 @@
 
 ### Day 1: February 17, 2017 (Finally!!!)
 
-**Today's Progress**: Learned to _fork_. ![GitHub Logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q)
+**Today's Progress**: Learned to _fork_. ![Alt][2]
 
 **Thoughts:** Have done most of the Front End Certificate, and getting ready for the next step. Loving **freeCodeCamp**.
 
@@ -411,12 +411,22 @@
 
 ### Day 47: April 5, 2017
 
-**Today's Progress**: Started adding C data structure libraries..
+**Today's Progress**: Started adding C data structure libraries.
 
 **Thoughts** Something different again. :-)
 
 **Link to work**
-1. [C Simple List]https://github.com/dpcorbett/simple-list
+1. [C Simple List]https://github.com/dpcorbett/simple-list ![Alt][2]
+
+### Day 48: April 6, 2017
+
+**Today's Progress**: Completed simple contiguous list in C.
+
+**Thoughts** Will compile and test asp. :-)
+
+**Link to work**
+1. [C Simple List]https://github.com/dpcorbett/simple-list ![Alt][2]
 
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
+[2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
