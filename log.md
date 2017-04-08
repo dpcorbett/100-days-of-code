@@ -427,6 +427,15 @@
 **Link to work**
 1. [C Simple List]https://github.com/dpcorbett/simple-list ![Alt][2]
 
+### Day 49: April 8, 2017
+
+**Today's Progress**: Added reset and started working on UI Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Missed yesterday due to celebrating getting offered a job as an assosciate developer. It won't happen again. lol :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
