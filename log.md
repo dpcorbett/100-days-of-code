@@ -436,6 +436,12 @@
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
 
+### Day 50: April 9, 2017
+
+**Today's Progress**: Practiced some more PHP.
+
+**Thoughts** I need to finish Pomodoro clock, but also need to practice stuff I will be doing. Half way. :-)
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
