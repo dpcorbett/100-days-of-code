@@ -422,7 +422,7 @@
 
 **Today's Progress**: Completed simple contiguous list in C.
 
-**Thoughts** Will compile and test asp. :-)
+**Thoughts** Will compile and test asap. :-)
 
 **Link to work**
 1. [C Simple List]https://github.com/dpcorbett/simple-list ![Alt][2]
@@ -441,6 +441,15 @@
 **Today's Progress**: Practiced some more PHP.
 
 **Thoughts** I need to finish Pomodoro clock, but also need to practice stuff I will be doing. Half way. :-)
+
+### Day 51: April 10, 2017
+
+**Today's Progress**: Started double linked list in C.
+
+**Thoughts** Also not compiled or tested. :-)
+
+**Link to work**
+1. [C Double Linked List]https://github.com/dpcorbett/double-linked-list ![Alt][2]
 
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
