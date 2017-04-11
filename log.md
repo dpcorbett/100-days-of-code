@@ -451,6 +451,15 @@
 **Link to work**
 1. [C Double Linked List]https://github.com/dpcorbett/double-linked-list ![Alt][2]
 
+### Day 52: April 11, 2017
+
+**Today's Progress**: Completed double linked list in C.
+
+**Thoughts** Will compile and test now .gitignore has been added.. :-)
+
+**Link to work**
+1. [C Double Linked List]https://github.com/dpcorbett/double-linked-list ![Alt][2]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
