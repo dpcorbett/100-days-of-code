@@ -455,10 +455,19 @@
 
 **Today's Progress**: Completed double linked list in C.
 
-**Thoughts** Will compile and test now .gitignore has been added.. :-)
+**Thoughts** Will compile and test now .gitignore has been added. :-)
 
 **Link to work**
 1. [C Double Linked List]https://github.com/dpcorbett/double-linked-list ![Alt][2]
+
+### Day 53: April 12, 2017
+
+**Today's Progress**: Moved on to fcc Back End Development.
+
+**Thoughts** Had to skip ahead, am loving this. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/map-aside#collapseBack-End-Development-Certification ![Alt][1]
 
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
