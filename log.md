@@ -469,6 +469,15 @@
 **Link to work**
 1. [fCCBED]https://www.freecodecamp.com/map-aside#collapseBack-End-Development-Certification ![Alt][1]
 
+### Day 54: April 14, 2017
+
+**Today's Progress**: More freeCodeCamp Back End Development.
+
+**Thoughts** Still going. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/map-aside#collapseBack-End-Development-Certification ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
