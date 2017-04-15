@@ -478,6 +478,16 @@
 **Link to work**
 1. [fCCBED]https://www.freecodecamp.com/map-aside#collapseBack-End-Development-Certification ![Alt][1]
 
+### Day 55: April 15, 2017
+
+**Today's Progress**: Finished Manage Packages with npm and began Start a Node.js Server from freeCodeCamp Back End Development.
+
+**Thoughts** This getting fun. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/challenges/manage-packages-with-npm ![Alt][1]
+2. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
