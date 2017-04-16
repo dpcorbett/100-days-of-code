@@ -488,6 +488,16 @@
 1. [fCCBED]https://www.freecodecamp.com/challenges/manage-packages-with-npm ![Alt][1]
 2. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
 
+### Day 56: April 16, 2017
+
+**Today's Progress**: Continued Start a Node.js Server from freeCodeCamp Back End Development.
+
+**Thoughts** Not sure if you are asked to complete learnyounode later, or whether I just need to do it. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
+2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
