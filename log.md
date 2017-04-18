@@ -498,6 +498,16 @@
 1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
 2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
 
+### Day 57: April 18, 2017
+
+**Today's Progress**: More work on Start a Node.js Server from freeCodeCamp Back End Development.
+
+**Thoughts** Couldn't quite complete it. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
+2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
