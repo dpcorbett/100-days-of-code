@@ -518,6 +518,16 @@
 1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
 2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
 
+### Day 59: April 20, 2017
+
+**Today's Progress**: Completed HTTP Client & Collect from learnyounode for freeCodeCamp Back End Development.
+
+**Thoughts** Went and then got back to work. :-)
+
+**Link to work**
+1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
+2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
