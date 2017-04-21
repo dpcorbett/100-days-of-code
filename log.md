@@ -528,6 +528,15 @@
 1. [fCCBED]https://www.freecodecamp.com/challenges/start-a-nodejs-server ![Alt][1]
 2. [fCCBED]https://github.com/dpcorbett/fcc-learnyounode ![Alt][2]
 
+### Day 60: April 21, 2017
+
+**Today's Progress**: Did further work on UX for Build a Pomodoro Clock on freeCodeCamp.
+
+**Thoughts** Need to go back and finish off Front End Certificate. :-)
+
+**Link to work**
+1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
