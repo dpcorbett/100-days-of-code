@@ -572,6 +572,15 @@
 
 **Link to work**
 1. [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) ![Alt][1]
+2. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
+### Day 65: April 26, 2017
+
+**Today's Progress**: Continued with Tic Tac Toe Game for freeCodeCamp.
+
+**Thoughts** Decided on flat 9 array rather than 3 by 3, may chamge again later. :-)
+
+**Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
 
 
