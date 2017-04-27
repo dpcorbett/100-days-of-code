@@ -578,7 +578,16 @@
 
 **Today's Progress**: Continued with Tic Tac Toe Game for freeCodeCamp.
 
-**Thoughts** Decided on flat 9 array rather than 3 by 3, may chamge again later. :-)
+**Thoughts** Decided on flat 9 array rather than 3 by 3, may change again later. :-)
+
+**Link to work**
+1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
+### Day 66: April 27, 2017
+
+**Today's Progress**: More CSS for Tic Tac Toe Game on freeCodeCamp.
+
+**Thoughts** Start to build UI. :-)
 
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
