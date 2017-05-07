@@ -646,6 +646,15 @@
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
 
+### Day 73: May 7, 2017
+
+**Today's Progress**: More work on Tic Tac Toe Game for freeCodeCamp.
+
+**Thoughts** Starting to develop turns. :-)
+
+**Link to work**
+1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
