@@ -693,9 +693,19 @@
 
 ### Day 78: May 12, 2017
 
-**Today's Progress**: Took a break and began some lazarus..
+**Today's Progress**: Took a break and began some lazarus.
 
 **Thoughts** Need to expand for work. :-)
+
+### Day 79: May 13, 2017
+
+**Today's Progress**: Created first Delphi apps with Lazarus.
+
+**Thoughts** So far so good. :-)
+
+**Link to work**
+1. [Hello World Delphi](https://github.com/dpcorbett/HelloWorldDelphi) ![Alt][2]
+2. [Spell Checker](https://github.com/dpcorbett/SpellChecker) ![Alt][2]
 
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
