@@ -707,11 +707,20 @@
 1. [Hello World Delphi](https://github.com/dpcorbett/HelloWorldDelphi) ![Alt][2]
 2. [Spell Checker](https://github.com/dpcorbett/SpellChecker) ![Alt][2]
 
-### Day 80: May 15, 2017
+### Day 80: May 14, 2017
 
 **Today's Progress**: More minimax for Tic Tac Toe game.
 
 **Thoughts** Think I finally understand it, now I just have to implement it. :-)
+
+**Link to work**
+1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
+### Day 81: May 15, 2017
+
+**Today's Progress**: Expanding Tic Tac Toe game.
+
+**Thoughts** Building AI from researched solutions. :-)
 
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
