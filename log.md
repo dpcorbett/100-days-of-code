@@ -761,6 +761,21 @@
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
 
+### Day 86: May 20, 2017
+
+**Today's Progress**: Had to make do with practicing DOM manipulation with javascript on my phone with JSAnywhere.
+
+**Thoughts** It was something atleast. :-)
+
+### Day 87: May 21, 2017
+
+**Today's Progress**: Refining Tic Tac Toe game slowly.
+
+**Thoughts** I know that minimax is calculating, it's just not returning anything useful yet. :-)
+
+**Link to work**
+1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
