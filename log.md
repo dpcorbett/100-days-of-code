@@ -14,7 +14,7 @@
 
 **Today's Progress**: Rebuilt bot, worked on getting it to run on Heroku.
 
-**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap) ![Alt][1]
+**Link to work**: [dpc-twitter-app](https://github.com/dpcorbett/twitter-bot-bootstrap) ![Alt][2]
 
 ### Day 3: February 19, 2017
 
@@ -821,6 +821,14 @@
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
 
+### Day 93: May 27, 2017
+
+**Today's Progress**: A little Tic Tac Toe game, and them some more Delphi with Lazarus..
+
+**Thoughts** Alittle of this, a little of that.. :-)
+
+**Link to work**
+Didn't commit yet, will do next time.
 
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
