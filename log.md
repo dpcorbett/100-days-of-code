@@ -830,5 +830,15 @@
 **Link to work**
 Didn't commit yet, will do next time.
 
+### Day 94: May 28, 2017
+
+**Today's Progress**: Started to implement symbol change for Tic Tac Toe game.
+
+**Thoughts** Now to allow changing between noughts and crosses. :-)
+
+**Link to work**
+1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
+
+
 [1]: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeW7HyfiAv28rGuC69WaSzYuixsoBaZkDaLmliY8uZoCZHqx1F "freeCodeCamp"
 [2]: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpGnxiZVpd6Li7DyXdJ_GUKejqxPiTmLYaUQg68Vrs6JU20xZw5Q "GitHub"
