@@ -875,7 +875,7 @@ Didn't commit yet, will do next time.
 **Link to work**
 1. [Spyn Server](https://github.com/dpcorbett/spynserver) ![Alt][2]
 
-### Day 99: May 2, 2017
+### Day 99: June 2, 2017
 
 **Today's Progress**: Mork work on tidying up Tic Tac Toe game.
 
@@ -884,7 +884,7 @@ Didn't commit yet, will do next time.
 **Link to work**
 1. [Build a Tic Tac Toe Game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) ![Alt][1]
 
-### Day 100: May 2, 2017
+### Day 100: June 3, 2017
 
 **Today's Progress**: So much more to do, but this has been an awesome catalyst.
 
